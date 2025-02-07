@@ -1,2 +1,2 @@
-# pands-mywork
-Content and submission work for the Programming and Scripting module
+# My work for the Programming and Scripting module
+Content within will reflect progress throughout the module.
