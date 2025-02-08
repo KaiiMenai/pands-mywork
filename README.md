@@ -5,6 +5,20 @@ Content within will reflect progress throughout the module.
 
 Gitignore and initial firsthello.py created.
 
+Commiting and making files:
+- Commands used = "git clone PASTED.URL", "git config pull.rebase false", "git pull", "git add .", "git push", "git commit -m "test"", "ls", "cd (..)", 
+
+Order of usage in Cmder. *Don't forget to commit and push in VSCode first*
+ - go to file where updates were made.
+ - "ls"
+ - "git config pull.rebase false"
+ - "git add ."
+ - "git commit -m "COMMENT WHAT WAS DONE""
+ - "git push"
+
+ Probably too many steps, but checking through this list of commands/prompts helps to determine the steps needed/what is missing.
+
+
 ## Week 2
 
 Started out adding a week02 folder to the pands-mywork file. Into the folder seveal python programs and iterations/modifications were made.
