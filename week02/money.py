@@ -10,8 +10,9 @@
 # Modified 08/02/2025 @ 18:39 - math operation in the placeholder.
 # Modified 08/02/2025 @ 18:41 - performing math operation on vatiables.
 # Modified 08/02/2025 @ 18:43 - :.2f added back to give 2dp.
+# Modified 08/02/2025 @ 18:45 - if...else statement for responses > Return "Expensive" if the price is over 70, otherwise return "Cheap"
 
-price = 60
-tax = 0.23
-txt = f"The price is {price + (price * tax):.2f} euros"
+price = 90
+# tax = 0.23
+txt = f"It is very {'Expensive' if price>70 else 'Cheap'}"
 print(txt)
