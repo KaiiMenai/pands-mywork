@@ -20,6 +20,14 @@
 # Modified 08/02/2025 @ 18:49 - Executing functions in f-strings 
 # using fruit as an example - use upper() to convert value to upper case letters.
 
-fruit = "raspberries"
-txt = f"I love {fruit.upper()}"
+# fruit = "raspberries"
+# txt = f"I love {fruit.upper()}"
+# print(txt)
+
+# Modified 08/02/2025 @ 18:54 - not required to use built-in python methods, can create own functions (i.e. converting feet into meters)
+
+def myconverter(x):
+  return x * 0.3048
+
+txt = f"The plane is flying at a {myconverter(30000)} meter altitude."
 print(txt)
