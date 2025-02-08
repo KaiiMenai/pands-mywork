@@ -4,5 +4,8 @@
 
 # f-strings - (f for format)
 
-txt = f"The price is 49 euros"
+# Modified 08/02/2025 @ 18:30 added in a placeholder {} - it can contain variables.
+
+price = 60
+txt = f"The price is {price} euros"
 print(txt)
