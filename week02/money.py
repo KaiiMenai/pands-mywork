@@ -12,7 +12,14 @@
 # Modified 08/02/2025 @ 18:43 - :.2f added back to give 2dp.
 # Modified 08/02/2025 @ 18:45 - if...else statement for responses > Return "Expensive" if the price is over 70, otherwise return "Cheap"
 
-price = 50
+# price = 50
 # tax = 0.23
-txt = f"It is very {'Expensive' if price>70 else 'Cheap'}"
+# txt = f"It is very {'Expensive' if price>70 else 'Cheap'}"
+# print(txt)
+
+# Modified 08/02/2025 @ 18:49 - Executing functions in f-strings 
+# using fruit as an example - use upper() to convert value to upper case letters.
+
+fruit = "raspberries"
+txt = f"I love {fruit.upper()}"
 print(txt)
