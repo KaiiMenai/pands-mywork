@@ -5,7 +5,8 @@
 # f-strings - (f for format)
 
 # Modified 08/02/2025 @ 18:30 added in a placeholder {} - it can contain variables.
+# Modified 08/02/2025 @ 18:32 modifier (:) added followed by legal formatting type (i.e. [.2f] - fixed point no. with 2 decimals)
 
 price = 60
-txt = f"The price is {price} euros"
+txt = f"The price is {price:.2f} euros"
 print(txt)
