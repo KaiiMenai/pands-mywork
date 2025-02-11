@@ -13,3 +13,5 @@ print("Here is a random number, {}.".format(number))
 # Reference:
 # Using randint() function: https://www.geeksforgeeks.org/python-generate-random-numbers-within-a-given-range-and-store-in-a-list/
 # Can also state if the output value needs to be above/below a specific value.
+
+# More info on random module work here: https://www.w3schools.com/Python/module_random.asp
