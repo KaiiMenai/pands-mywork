@@ -7,8 +7,16 @@
 # message = 'I have eaten ' + 99 + ' burritos.'
 # print (message)
 
-# This is due to the initial statement - 'I have eaten ' + 99 + ' burritos.'
+# This initial expression causes an error due to the initial statement - 'I have eaten ' + 99 + ' burritos.'
 # To modify this so that it works.
+
+# # Using the word "eggs" as a variable name is fine as it begins with a letter, "100" is all numbers and thus an invalid name for a variable.
+# Functions that can be used for the:  
+# integer - int()
+# floating-point number - float(), or
+# string version of a value - str().
+
+# Modifying the statement so that it works.
 
 number = int(99)
 print("I have eaten {} burritos.".format(number))
