@@ -47,4 +47,8 @@ Started out adding a week02 folder to the pands-mywork file. Into the folder sev
 
 All files commited and pushed to GitHub.
 
+## Week 3
+
+Learning about variable types, how these are stored, and the importance of clear variable names.
+
 END
