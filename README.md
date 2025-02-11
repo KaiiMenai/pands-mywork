@@ -50,5 +50,8 @@ All files commited and pushed to GitHub.
 ## Week 3
 
 Learning about variable types, how these are stored, and the importance of clear variable names.
+Worked through different variable types, how the types can be changed between and checked.
+Generating numbers at random from a predefined and then from a user specified range. 
+Randomly generating a fruit from a predefined list and using tuble () rather than list [] brackets as the variables in the list never change.
 
 END
