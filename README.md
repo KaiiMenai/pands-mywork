@@ -54,4 +54,6 @@ Worked through different variable types, how the types can be changed between an
 Generating numbers at random from a predefined and then from a user specified range. 
 Randomly generating a fruit from a predefined list and using tuble () rather than list [] brackets as the variables in the list never change.
 
+Corrected the email.
+
 END
