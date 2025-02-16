@@ -16,4 +16,4 @@ print("{} minus {} is {} ".format(x, y, answer))
 # Traceback (most recent call last):
 #  File "d:\Data_Analytics\Modules\PandS\pands-mywork\week03\sub.py", line 8, in <module>
 #     y = int(input("Enter second number: "))
-# ValueError: invalid literal for int() with base 10: 'hello'.
+# ValueError: invalid literal for int() with base 10: 'hello'.n
