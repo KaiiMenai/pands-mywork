@@ -26,3 +26,8 @@ print(f'The length of "{inputstring}" is {stringlength} characters.')
     # You will be assked to enter a string. In this case a string can be words or numbers.
     # Enter a string: 1234
     # The length of "1234" is 4 characters.
+
+# References:
+# floor.py - https://github.com/KaiiMenai/pands-mywork/blob/main/week03/floor.py
+# sub.py - https://github.com/KaiiMenai/pands-mywork/blob/main/week03/sub.py
+# nameAndAge.py - https://github.com/KaiiMenai/pands-mywork/blob/main/week02/nameAndAge.py

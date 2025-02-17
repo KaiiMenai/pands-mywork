@@ -28,6 +28,7 @@ print(f"We reduced the input String from {lenghtofrawstring} to {lenghtofnormali
 
 # Using this on sentences however, would result in a lot of letters bring changed into lower case.
 # It wouldn't be able to tell the difference in this case between a name and a regular word.
+
 # For example:
     # Please enter a String: Hello I am Kyra
     # The entered String normalised is : hello i am kyra.
