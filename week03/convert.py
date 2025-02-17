@@ -8,15 +8,15 @@
 
 # Using the basic program from the bank.py task, I went back and added in the parts about the absolute value and float to make it function for reading in a value with or without the - .
 # reference below.
-# print("Hello," + "\tPlease enter the following amounts in cents.") # Change this to ask for euros.
-# x = input("Enter amount 1: ")         # Remove the x and y - int not needed.
-# y = input("Enter amount 2: ")         # Add the input as a float.
-# sum = int(x) + int(y)                 # Change this to be for absolute value.
-# def converttoeuro(sum):               # reverse this function to convert to cent.
-#    return '€{:,.2f}'.format(sum/100)
+    # print("Hello," + "\tPlease enter the following amounts in cents.") # Change this to ask for euros.
+    # x = input("Enter amount 1: ")         # Remove the x and y - int not needed.
+    # y = input("Enter amount 2: ")         # Add the input as a float.
+    # sum = int(x) + int(y)                 # Change this to be for absolute value.
+    # def converttoeuro(sum):               # reverse this function to convert to cent.
+    #    return '€{:,.2f}'.format(sum/100)
 
-# txt = f"The sum of these is {converttoeuro(sum)}."
-# print(txt)
+    # txt = f"The sum of these is {converttoeuro(sum)}."
+    # print(txt)
 
 # I then used the f-string to format the output - from last week's task and extended reading.
 
@@ -30,10 +30,10 @@ def converttocent(absolutevalue):
 txt = f"The amount in cent is {converttocent(absolutevalue)}."
 print(txt)
 
-# Output
-# Hello,  What value would you like to input? Please enter in euros.
-# Enter a number:-5.99
-# The amount in cent is 599.0.
+# Output:
+    # Hello,  What value would you like to input? Please enter in euros.
+    # Enter a number:-5.99
+    # The amount in cent is 599.0.
 
 
 

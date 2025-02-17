@@ -11,5 +11,6 @@ roundedNumber = round(numberToRound)
 print ( '{} rounded is {}.'.format(numberToRound,roundedNumber))
 
 # Inputting a number such as 6.9 will round to 7.
-# Enter a float number:6.9
-# 6.9 rounded is 7.
+# For example:
+    # Enter a float number:6.9
+    # 6.9 rounded is 7.

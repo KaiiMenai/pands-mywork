@@ -10,5 +10,6 @@ floorednumber = math.floor(numbertofloor)
 print('{} floored is {}.'.format(numbertofloor, floorednumber))
 
 # Inputting a number like 8.8 will give an output of 8.
-#  Enter a float number:8.8 
-# 8.8 floored is 8.
+# Output:
+    # Enter a float number:8.8 
+    # 8.8 floored is 8.

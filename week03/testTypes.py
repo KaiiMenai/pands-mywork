@@ -17,8 +17,9 @@ print('variable {} is of type:{} and value:{}'.format('is', type(isa), isa))
 print('variable {} is of type:{} and value:{}'.format('memo', type(memo), memo))
 print('variable {} is of type:{} and value:{}'.format('lots', type(lots), lots))
 
-# variable i is of type:<class 'int'> and value:3
-# variable fl is of type:<class 'float'> and value:3.5
-# variable is is of type:<class 'bool'> and value:True
-# variable memo is of type:<class 'str'> and value:how now Brown Cow
-# variable lots is of type:<class 'list'> and value:[]
+# Output:
+    # variable i is of type:<class 'int'> and value:3
+    # variable fl is of type:<class 'float'> and value:3.5
+    # variable is is of type:<class 'bool'> and value:True
+    # variable memo is of type:<class 'str'> and value:how now Brown Cow
+    # variable lots is of type:<class 'list'> and value:[]

@@ -12,9 +12,9 @@
 
 # # Using the word "eggs" as a variable name is fine as it begins with a letter, "100" is all numbers and thus an invalid name for a variable.
 # Functions that can be used for the:  
-# integer - int()
-# floating-point number - float(), or
-# string version of a value - str().
+    # integer - int()
+    # floating-point number - float(), or
+    # string version of a value - str().
 
 # Modifying the statement so that it works.
 
@@ -25,6 +25,7 @@ print("I have eaten {} burritos.".format(number))
 
 # To be fancy about it and get someone to input their own value
 
-# print("How many burritos have you eaten?")
-# number = int(input("Enter number: "))
-# print("You ate {} burritos.".format(number))
+# Input would be:
+    # print("How many burritos have you eaten?")
+    # number = int(input("Enter number: "))
+    # print("You ate {} burritos.".format(number))
