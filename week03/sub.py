@@ -10,7 +10,9 @@ answer= x-y
 print("{} minus {} is {} ".format(x, y, answer))
 
 # To tidy up the answer and add correct grammar - print("{} minus {} is {}.".format(x, y, answer))
-# If something like 'hello' is entered it will give an error. Like:
+# If something like 'hello' is entered it will give an error. 
+
+# Like:
 # Enter first number: 40
 # Enter second number: hello
 # Traceback (most recent call last):
