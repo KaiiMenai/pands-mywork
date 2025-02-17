@@ -30,6 +30,12 @@ def converttocent(absolutevalue):
 txt = f"The amount in cent is {converttocent(absolutevalue)}."
 print(txt)
 
+# Output
+# Hello,  What value would you like to input? Please enter in euros.
+# Enter a number:-5.99
+# The amount in cent is 599.0.
+
+
 
 # Reference: 
 # https://github.com/KaiiMenai/pands-weekly-tasks/blob/main/bank.py
