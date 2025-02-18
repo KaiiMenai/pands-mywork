@@ -43,3 +43,6 @@ print(f"Debit: €{debit:.2f}, Credit: €{credit:.2f}, Balance: €{credit - de
 # Output:
     # Debit: €300.00, Credit: €450.00, Balance: €150.00.
 # The :.2f part of the replacement field is a format specification.
+
+# https://realpython.com/python-f-strings/
+# https://realpython.com/python-string-formatting/#formatting-strings-with-f-strings-a-practical-example
