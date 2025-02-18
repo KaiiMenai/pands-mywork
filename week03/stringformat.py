@@ -46,3 +46,8 @@ print(f"Debit: €{debit:.2f}, Credit: €{credit:.2f}, Balance: €{credit - de
 
 # https://realpython.com/python-f-strings/
 # https://realpython.com/python-string-formatting/#formatting-strings-with-f-strings-a-practical-example
+
+# Note:  If you supplied the string :
+# use f"{variable}" pattern
+# else : 
+# use string templates (This stops malicious code injection)
