@@ -3,6 +3,8 @@
 # RThe program will also check that the percentage is valid.
 # author: Kyra Menai Hamilton
 
+# lab notes: https://vlegalwaymayo.atu.ie/pluginfile.php/1496536/mod_label/intro/Lab%204.1%20if.pdf?time=1676413032542
+
 # Grading system: 
 # • Under 40% => Fail
 # • Between 40% and 49% => Pass
