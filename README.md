@@ -56,4 +56,8 @@ Randomly generating a fruit from a predefined list and using tuble () rather tha
 
 Corrected the email.
 
+# Week 4
+
+Learning about IF, ELIF, ELSE statements.
+
 END
