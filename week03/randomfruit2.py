@@ -12,3 +12,5 @@ fruits = ('Apple', 'Kiwi', 'Grape', 'Pear')
 index = random.randint(0,len(fruits)-1)
 fruit = fruits[index]
 print("A random fruit: {}.".format(fruit))
+
+# END

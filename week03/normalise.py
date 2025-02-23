@@ -34,3 +34,5 @@ print(f"We reduced the input String from {lenghtofrawstring} to {lenghtofnormali
     # The entered String normalised is : hello i am kyra.
     # We reduced the input String from 15 to 15 characters.
 # The number of characters remains the same, but the capital letters are removed.
+
+# END

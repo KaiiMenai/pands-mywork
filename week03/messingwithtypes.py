@@ -19,3 +19,5 @@ print(f"Type of answer is {type(answer)}")
 # Make sure that all variables have proper names, it will make it easier to read the code and understand what it does.
 # MUST start variable names with a letter, NOT a number. Numbers can be in the middle of a variable name just not at the beginning.
 # print(type(X)) will yield the type of variable that X is. Whether that is variable (e.g. answer as integer) as above.
+
+# END

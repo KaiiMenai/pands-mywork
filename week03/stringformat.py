@@ -51,3 +51,5 @@ print(f"Debit: €{debit:.2f}, Credit: €{credit:.2f}, Balance: €{credit - de
 # use f"{variable}" pattern
 # else : 
 # use string templates (This stops malicious code injection)
+
+# END

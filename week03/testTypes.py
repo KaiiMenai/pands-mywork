@@ -23,3 +23,5 @@ print('variable {} is of type:{} and value:{}'.format('lots', type(lots), lots))
     # variable is is of type:<class 'bool'> and value:True
     # variable memo is of type:<class 'str'> and value:how now Brown Cow
     # variable lots is of type:<class 'list'> and value:[]
+
+# END

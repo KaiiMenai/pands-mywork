@@ -7,3 +7,7 @@
 name = input("Enter your name:")
 age = input("Enter your age:")
 print('Hello ' + name + ',' + '\tNice to meet you.' + '\tYour age is ' + age +'.')
+
+# Alternative method of input - print(f'Hello {name},\tNice to meet you.\tYour age is {age}.')
+
+# END

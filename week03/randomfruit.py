@@ -13,3 +13,5 @@ fruit = fruits[index]
 print("A random fruit: {}.".format(fruit))
 
 # There will be a way in future week classes to make this tidyer.
+
+# END
