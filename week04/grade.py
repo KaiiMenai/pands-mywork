@@ -61,10 +61,4 @@ else:                   # As there are no other values left, ELSE is used here a
     # 89.0
     # Distinction
 
-# Now to adapt the program.
-# In practice the percentages are rounded ie 69.5 gets rounded to 70 so is
-# equal to a Distinction. 
-
-# for this  I will modify the unput to always round UP the unput to the nearest whole number.
-
 # END
