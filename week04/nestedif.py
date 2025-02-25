@@ -48,4 +48,8 @@ else:
 # The code that is indented after the : is part of the block of code.
 # The code that is not indented is outside the block of code.
 
+
+# References:
+# https://s3-us-west-2.amazonaws.com/python-notes/a-whirlwind-tour-of-python-2.pdf
+
 # END
