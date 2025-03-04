@@ -58,6 +58,29 @@ while True:
 
     time.sleep(1)
 
+# Removing Items From an Iterable in a Loop
+
+# Modifying a collection during iteration can be risky, especially when you need to remove items from the target collection. 
+# In some cases, using a while loop can be a good solution.
+
+# For example, say that you need to process a list of values and remove each value after it’s processed. 
+# In this situation, you can use a while loop like the following:
+
+colours = ["red", "blue", "yellow", "green"]
+
+while colours:
+    colour = colours.pop(-1)
+    print(f"Processing colour: {colour}")
+
+# Processing colour: green
+# Processing colour: yellow
+# Processing colour: blue
+# Processing colour: red
+
+# When you evaluate a list in a Boolean context, you get True if it contains elements and False if it’s empty. 
+# In this example, colors remains true as long as it has elements. 
+# Once you remove all the items with the .pop() method, colors becomes false, and the loop terminates.
+
 # References:
 # https://realpython.com/python-while-loop/
 
