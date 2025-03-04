@@ -58,4 +58,7 @@ while True:
 
     time.sleep(1)
 
+# References:
+# https://realpython.com/python-while-loop/
+
 # END
