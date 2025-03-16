@@ -4,12 +4,12 @@
 
 # Input string in this case could be words or numbers. Without int in front of numbers they are just a string.
 
-inputstring = input('You will be assked to enter a string. In this case a string can be words or numbers.' '\nEnter a string: ')
+inputstring = input('You will be asked to enter a string. In this case a string can be words or numbers.' '\nEnter a string: ')
 stringlength = len(inputstring)
 print(f'The length of "{inputstring}" is {stringlength} characters.')
 
 # The output from this is: 
-    # You will be assked to enter a string. In this case a string can be words or numbers.
+    # You will be asked to enter a string. In this case a string can be words or numbers.
     # Enter a string: 1234
     # The length of "1234" is 4 characters.
 
@@ -23,7 +23,7 @@ print(f'The length of "{inputstring}" is {stringlength} characters.')
     # print('The length of "{}" is {} characters.'.format(inputstring, stringlength))
 
 # Giving the output:
-    # You will be assked to enter a string. In this case a string can be words or numbers.
+    # You will be asked to enter a string. In this case a string can be words or numbers.
     # Enter a string: 1234
     # The length of "1234" is 4 characters.
 
