@@ -23,3 +23,4 @@ print(car)                          # This will print out the dictionary.
 # print(car['owner']['name'])       # To access a specific key in the dictionary, use square brackets and the key name.
 
 # Can define things as attributes of a class. i.e. car.make, car.model, car.year, car.owner, car.tags and to define it would be something like attr = X.
+# Dictionary objects can get quite complicated depending on the amount/type of data being stored.
