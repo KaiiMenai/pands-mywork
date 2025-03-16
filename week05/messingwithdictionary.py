@@ -12,7 +12,7 @@ car = {                             # Dictionary with key-value pairs.
         'name' : 'Rohan',
         'driver number' : 1123,
         },                     
-    'tags': ['sedan', 'new']
+    'tags': ['sedan', 'new']        # This is a list within the dictionary.
 }
 
 print(car)                          # This will print out the dictionary.
